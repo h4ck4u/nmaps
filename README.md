@@ -7,6 +7,8 @@
 
 ### Usage
 
+### Assuming you have /usr/bin in your PATH, create a binary as follows:
+
 ```
 mv nmaps.sh /usr/bin/.
 chmod +x nmaps.sh
